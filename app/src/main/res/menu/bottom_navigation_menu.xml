@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_fastfood_24"
+        android:title="Recipes" />
+    <item
+        android:id="@+id/navigation_create_post"
+        android:icon="@drawable/baseline_password"
+        android:title="Create" />
+    <item
+        android:id="@+id/navigation_my_recipe_post"
+        android:icon="@drawable/baseline_food_bank"
+        android:title="My Posts" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/baseline_profile"
+        android:title="Profile" />
+</menu>

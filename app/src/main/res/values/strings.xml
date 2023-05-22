@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="imageLink"><![CDATA[https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&webp=true&resize=375,341]]></string>
+    <string name="recipe_report">Recipes Reports</string>
+    <string name="user_report">Users Reports</string>
+    <string name="abuse_report">Abuse Report</string>
+
+    <string-array name="category">
+        <item>Appetizers</item>
+        <item>Beverages</item>
+        <item>Breads</item>
+        <item>Breakfast</item>
+        <item>Desserts</item>
+        <item>Main Dishes</item>
+        <item>Salads</item>
+        <item>Sandwiches</item>
+        <item>Side Dishes</item>
+        <item>Soups</item>
+        <item>Snacks</item>
+        <item>Vegetarian</item>
+        <item>Vegan</item>
+        <item>Gluten-Free</item>
+        <item>Dairy-Free</item>
+        <item>Seafood</item>
+        <item>Poultry</item>
+        <item>Beef</item>
+        <item>Pork</item>
+        <item>Lamb</item>
+        <item>Fish</item>
+        <item>Shellfish</item>
+        <item>Italian</item>
+        <item>Mexican</item>
+        <item>Chinese</item>
+        <item>Indian</item>
+        <item>Japanese</item>
+        <item>Thai</item>
+        <item>Mediterranean</item>
+        <item>French</item>
+        <item>American</item>
+        <item>Greek</item>
+        <item>Korean</item>
+        <item>Spanish</item>
+        <item>Middle Eastern</item>
+        <item>Vietnamese</item>
+        <item>African</item>
+        <item>Caribbean</item>
+        <item>Latin American</item>
+        <item>Sweets</item>
+        <item>Spicy</item>
+        <item>Comfort Food</item>
+        <item>Healthy</item>
+        <item>Quick and Easy</item>
+        <item>Grilled</item>
+        <item>Baked</item>
+        <item>Fried</item>
+        <item>Steamed</item>
+        <item>Slow Cooker</item>
+        <item>One-Pot</item>
+        <item>Kid-Friendly</item>
+        <item>Budget-Friendly</item>
+        <item>Gourmet</item>
+        <item>Low Carb</item>
+        <item>Low Fat</item>
+        <item>Low Sodium</item>
+        <item>Sugar-Free</item>
+        <item>Organic</item>
+    </string-array>
+
+    <string-array name="ready_time">
+        <item>15 Minute</item>
+        <item>25 Minute</item>
+        <item>30 Minute</item>
+        <item>45 Minute</item>
+        <item>1 Hour</item>
+        <item>3 Hour</item>
+        <item>4 Hour</item>
+        <item>5 Hour</item>
+    </string-array>
+
+</resources>
